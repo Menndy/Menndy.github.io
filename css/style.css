@@ -3790,3 +3790,10 @@ body.colorful .map_center h3 {
     width: 340px;
   }
 }
+
+.pub_containter{
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
